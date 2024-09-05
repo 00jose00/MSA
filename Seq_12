@@ -1,0 +1,82 @@
+Secuencia 12.
+
+
+XM_054660372.2:501-771        GGCTAGTGTAATTACAAAGGGAACCAAGGAAAGGCAATACTTAGATGAAGAGTTTGTTCT	60
+XM_009441339.5:733-1003       GGCTAGTGTAATTACAAAGGGAACCAAGGAAAGGCAATACTTAGATGAAGAGTTTGTTCT	60
+XM_008966804.5:480-750        GGCTAGTGTAATTACAAAGGGAACCAAGGAAAGGCAATACTTAGATGAAGAGTTTGTTCT	60
+unknownsequence12             GGCTAGTGTAATTACAAAGGGAACCAAGGAAAGGCAATACTTAGATGAAGAGTTTGTTCT	60
+XM_054660372.2:784-996        ------------------------------------------------------------	0
+XM_009441339.5:1016-1228      ------------------------------------------------------------	0
+XM_008966804.5:763-975        ------------------------------------------------------------	0
+                                                                                          
+
+XM_054660372.2:501-771        TCGAGTGATGACTCAGTTGACTCTGGCCCTGAAGGAATGCCACAGACGAAGTGATGGTGG	120
+XM_009441339.5:733-1003       TCGAGTGATGACTCAGTTGACTCTGGCCCTGAAGGAATGCCACAGACGAAGTGATGGTGG	120
+XM_008966804.5:480-750        TCGAGTGATGACTCAGTTGACTCTGGCCCTGAAGGAATGCCACAGACGAAGTGATGGTGG	120
+unknownsequence12             TCGAGTGATGACTCAGTTGACTCTGGCCCTGAAGGAATGCCACAGACGAAGTGATGGTGG	120
+XM_054660372.2:784-996        ------------------------------------------------------------	0
+XM_009441339.5:1016-1228      ------------------------------------------------------------	0
+XM_008966804.5:763-975        ------------------------------------------------------------	0
+                                                                                          
+
+XM_054660372.2:501-771        TCATACCGTATTGCATCGGGATCTGAAACCAGCCAATGTTTTCCTGGATGGCAAGCAAAA	180
+XM_009441339.5:733-1003       TCATACCGTATTGCATCGGGATCTGAAACCAGCCAATGTTTTCCTGGATGGCAAGCAAAA	180
+XM_008966804.5:480-750        TCATACCGTATTGCATCGGGATCTGAAACCAGCCAATGTTTTCCTGGATGGCAAGCAAAA	180
+unknownsequence12             TCATACCGTATTGCATCGGGATCTGAAACCAGCCAATGTTTTCCTGGATGGCAAGCAAAA	180
+XM_054660372.2:784-996        ------------------------------------------------------------	0
+XM_009441339.5:1016-1228      ------------------------------------------------------------	0
+XM_008966804.5:763-975        ------------------------------------------------------------	0
+                                                                                          
+
+XM_054660372.2:501-771        CGTCAAGCTTGGAGACTTTGGGCTAGCTAGAATATTAAACCACGACACGAGTTTTGCAAA	240
+XM_009441339.5:733-1003       CGTCAAGCTTGGAGACTTTGGGCTAGCTAGAATATTAAACCACGACACGAGTTTTGCAAA	240
+XM_008966804.5:480-750        CGTCAAGCTTGGAGACTTTGGGCTAGCTAGAATATTAAACCACGACACGAGTTTTGCAAA	240
+unknownsequence12             CGTCAAGCTTGGAGACTTTGGGCTAGCTAGAATATTAAACCACGACACGAGTTTTGCAAA	240
+XM_054660372.2:784-996        ------------------------------------------------------------	0
+XM_009441339.5:1016-1228      ------------------------------------------------------------	0
+XM_008966804.5:763-975        ------------------------------------------------------------	0
+                                                                                          
+
+XM_054660372.2:501-771        AACATTTGTTGGCACACCTTATTACATGTCT-----------------------------	271
+XM_009441339.5:733-1003       AACATTTGTTGGCACACCTTATTACATGTCT-----------------------------	271
+XM_008966804.5:480-750        AACATTTGTTGGCACACCTTATTACATGTCT-----------------------------	271
+unknownsequence12             AACATTTGTTGGCACACCTTATTACATGTCTAGAAATCAGATATAGAAATCAGATATAGA	300
+XM_054660372.2:784-996        ------------------------------------------------------------	0
+XM_009441339.5:1016-1228      ------------------------------------------------------------	0
+XM_008966804.5:763-975        ------------------------------------------------------------	0
+                                                                                          
+
+XM_054660372.2:501-771        ------------------------------------------------------------	271
+XM_009441339.5:733-1003       ------------------------------------------------------------	271
+XM_008966804.5:480-750        ------------------------------------------------------------	271
+unknownsequence12             AATCAGATATAGAAATCAGATATCCTNNNNTACAATGAGAAATCAGATATCTGGTCATTG	360
+XM_054660372.2:784-996        ------------------AATCGCATGTCCTACAATGAGAAATCAGATATCTGGTCATTG	42
+XM_009441339.5:1016-1228      ------------------AATCGCATGTCCTACAATGAGAAATCAGATATCTGGTCATTG	42
+XM_008966804.5:763-975        ------------------AATCGCATGTCCTACAATGAGAAATCAGATATCTGGTCATTG	42
+                                                                                          
+
+XM_054660372.2:501-771        ------------------------------------------------------------	271
+XM_009441339.5:733-1003       ------------------------------------------------------------	271
+XM_008966804.5:480-750        ------------------------------------------------------------	271
+unknownsequence12             GGCTGCTTGCTGTATGAGTTATGTGCATTAATGCCTCCATTTACAGCTTTTAGCCAGAAA	420
+XM_054660372.2:784-996        GGCTGCTTGCTGTATGAGTTATGTGCATTAATGCCTCCATTTACAGCTTTTAGCCAGAAA	102
+XM_009441339.5:1016-1228      GGCTGCTTGCTGTATGAGTTATGTGCATTAATGCCTCCATTTACAGCTTTTAGCCAGAAA	102
+XM_008966804.5:763-975        GGCTGCTTGCTGTATGAGTTATGTGCATTAATGCCTCCATTTACAGCTTTTAGCCAGAAA	102
+                                                                                          
+
+XM_054660372.2:501-771        ------------------------------------------------------------	271
+XM_009441339.5:733-1003       ------------------------------------------------------------	271
+XM_008966804.5:480-750        ------------------------------------------------------------	271
+unknownsequence12             GAACTCGCTGGGAAAATCAGAGAAGGCAAATTCAGGCGAATTCCATACCGTTACTCTGAT	480
+XM_054660372.2:784-996        GAACTCGCTGGGAAAATCAGAGAAGGCAAATTCAGGCGAATTCCATACCGTTACTCTGAT	162
+XM_009441339.5:1016-1228      GAACTCGCTGGGAAAATCAGAGAAGGCAAATTCAGGCGAATTCCATACCGTTACTCTGAT	162
+XM_008966804.5:763-975        GAACTCGCTGGGAAAATCAGAGAAGGCAAATTCAGGCGAATTCCATACCGTTACTCTGAT	162
+                                                                                          
+
+XM_054660372.2:501-771        ---------------------------------------------------	271
+XM_009441339.5:733-1003       ---------------------------------------------------	271
+XM_008966804.5:480-750        ---------------------------------------------------	271
+unknownsequence12             GAATTGAATGAAATTATTACGAGGATGTTAAACTTAAAGGATTACCATCGA	531
+XM_054660372.2:784-996        GAATTGAATGAAATTATTACGAGGATGTTAAACTTAAAGGATTACCATCGA	213
+XM_009441339.5:1016-1228      GAATTGAATGAAATTATTACGAGGATGTTAAACTTAAAGGATTACCATCGA	213
+XM_008966804.5:763-975        GAATTGAATGAAATTATTACGAGGATGTTAAACTTAAAGGATTACCATCGA	213

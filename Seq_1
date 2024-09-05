@@ -1,0 +1,57 @@
+Secuencia 1.
+
+
+AH011815.2:132-339        -----------------AGAGCCTGAGCTTTGTGAGGATGTCCTGTGGAACCTGTCCCGG	43   
+AH011815.2:177-246        ------------------------------------------------------------	0
+MN511812.1:1086-1150      ------------------------------------------------------------	0
+AH012037.2:180-387        -----------------AGAGCCTGAGCTTTGTGAGGACGTCCTGTGGAACCTGTCCCGG	43
+AH012037.2:225-294        ------------------------------------------------------------	0
+unknownsequence1          ATTTTTAGGAGAGGCCTAGAGCCTGAGCTTTGTGAGGACGTCCTGTGGAACCTGTCCCGG	60
+                                                                                      
+
+AH011815.2:132-339        CCCCCTGCCCTGGGATGGGGAGAAGTCAGGGGGATAGACAGAGTCAAGGTGGGGGACAGG	103
+AH011815.2:177-246        --CCCTGCCCTGGGATGGGGAGAAGTCAGGGGGATAGACAGAGTCAAGGTGGGGGACAGG	58
+MN511812.1:1086-1150      ------------------------------------------------------------	0
+AH012037.2:180-387        CCCCCTGCCCTGGGATGGGGAGAAGTCAGGGGGATAGACAGAGTCAAGGTGGGGGACAGG	103
+AH012037.2:225-294        --CCCTGCCCTGGGATGGGGAGAAGTCAGGGGGATAGACAGAGTCAAGGTGGGGGACAGG	58
+unknownsequence1          CCCCCTGCCCTGGGATGGGGAGAAGTCAGGGGGATAGACAGAGTCAAGGTGGGGGACAGG	120
+                                                                                      
+
+AH011815.2:132-339        GYGGGAGTGGGGTCCCCAGGGCTGGGGGCCTTTGGTGCAGTGACCAGAGTGTCAGGAGAG	163
+AH011815.2:177-246        GYGGGAGTGGGG------------------------------------------------	70
+MN511812.1:1086-1150      ------------------------------------------------------------	0
+AH012037.2:180-387        GCGGGAGTGGGGTCCCCAGGGCTGGGGGCCTTTGGTGCAGTGACCAGAGTGTCAGGAGAG	163
+AH012037.2:225-294        GCGGGAGTGGGG------------------------------------------------	70
+unknownsequence1          GCGGGAGTGGGGTCCCCAGGGCTGGGGGCCTTTGGTGCAGTGACCAGAGTGTCAGGAGAG	180
+                                                                                      
+
+AH011815.2:132-339        GGGAGCAAAGCCCTCTAGCCTCATCCTCATAAAAGGTCTCATCAT---------------	208
+AH011815.2:177-246        ------------------------------------------------------------	70
+MN511812.1:1086-1150      ---------------------------------------------AGTTCAGATTGCTTC	15
+AH012037.2:180-387        GGGAGCAAAGCCCTCTAGCCTCATCCTCATAAAAGGTCTCATCAT---------------	208
+AH012037.2:225-294        ------------------------------------------------------------	70
+unknownsequence1          GGGAGCAAAGCCCTCTAGCCTCATCCTCATAAAAGGTCTCATCATAGTTCAGATTGCTTC	240
+                                                                                      
+
+AH011815.2:132-339        ------------------------------------------------------------	208
+AH011815.2:177-246        ------------------------------------------------------------	70
+MN511812.1:1086-1150      AAATGAGAACATGGAAACAATGGACTCCAGCACTCTTGAACTGAGGAGTA----------	65
+AH012037.2:180-387        ------------------------------------------------------------	208
+AH012037.2:225-294        ------------------------------------------------------------	70
+unknownsequence1          AAATGAGAACATGGAAACAATGGACTCCAGCACTCTTGAACTGAGGAGTATCAGCCCTAG	300
+                                                                                      
+
+AH011815.2:132-339        ------------------------------------------------------------	208
+AH011815.2:177-246        ------------------------------------------------------------	70
+MN511812.1:1086-1150      ------------------------------------------------------------	65
+AH012037.2:180-387        ------------------------------------------------------------	208
+AH012037.2:225-294        ------------------------------------------------------------	70
+unknownsequence1          ATAATATAAGTCAATTAAACGACCAAGCCAAAATTGTCCCTGCCCTGGGATGGGGAGAAG	360
+                                                                                      
+
+AH011815.2:132-339        -----------------------------------------------	208
+AH011815.2:177-246        -----------------------------------------------	70
+MN511812.1:1086-1150      -----------------------------------------------	65
+AH012037.2:180-387        -----------------------------------------------	208
+AH012037.2:225-294        -----------------------------------------------	70
+unknownsequence1          TCAGGGGGATAGACAGAGTCAAGGTGGGGGACAGGGCGGGAGTGGGG	

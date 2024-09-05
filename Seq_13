@@ -1,0 +1,118 @@
+Secuencia 13.
+
+
+BC090940.1:650-877      ------------------------------------------------------------	0
+CR933690.1:696-922      ------------------------------------------------------------	0
+AB776844.1:648-874      ------------------------------------------------------------	0
+BC090940.1:378-650      CTTTGACTACTGGGGCCGAGGAACCCGGGTCACCGTCTCCTCAGCCTCCACCAAGGGCCC	60
+unknown                 CTTTGACTACTGGGGCCGAGGAACCCGGGTCACCGTCTCCTCAGCCTCCACCAAGGGCCC	60
+AB776844.1:375-646      CTTTGACAACTGGGGCCGAGGAACCCTGGTCACCGTCTCCTCAGCCTCCACCAAGGGCCC	60
+CR933690.1:423-694      CTTTGACTACTGGGGCCAAGGAACCCCGGTCACCGTCTCCTCAGCCTCCACCAAGGGCCC	60
+                                                                                    
+
+BC090940.1:650-877      ------------------------------------------------------------	0
+CR933690.1:696-922      ------------------------------------------------------------	0
+AB776844.1:648-874      ------------------------------------------------------------	0
+BC090940.1:378-650      ATCGGTCTTCCCCCTGGCACCCTCCTCCAAGAGCACCTCTGGGGGCACAGCAGCCCTGGG	120
+unknown                 ATCGGTCTTCCCCCTGGCACCCTCCTCCAAGAGCACCTCTGGGGGCACAGCAGCCCTGGG	120
+AB776844.1:375-646      ATCGGTCTTCCCCCTGGCACCCTCCTCCAAGAGCACCTCTGGGGGCACAGCGGCCCTGGG	120
+CR933690.1:423-694      ATCGGTCTTCCCCCTGGCACCCTCCTCCAAGAGCACCTCTGGGGGCACAGCGGCCCTGGG	120
+                                                                                    
+
+BC090940.1:650-877      ------------------------------------------------------------	0
+CR933690.1:696-922      ------------------------------------------------------------	0
+AB776844.1:648-874      ------------------------------------------------------------	0
+BC090940.1:378-650      CTGCCTGGTCAAGGACTACTTCCCCGAACCGGTGACGGTGTCGTGGAACTCAGGCGCCCT	180
+unknown                 CTGCCTGGTCAAGGACTACTTCCCCGAACCGGTGACGGTGTCGTGGAACTCAGGCGCCCT	180
+AB776844.1:375-646      CTGCCTGGTCAAGGACTACTTCCCCGAACCGGTGACGGTGTCGTGGAACTCAGGCGCCCT	180
+CR933690.1:423-694      CTGCCTGGTCAAGGACTACTTCCCCGAACCGGTGACGGTGTCGTGGAACTCAGGCGCCCT	180
+                                                                                    
+
+BC090940.1:650-877      ------------------------------------------------------------	0
+CR933690.1:696-922      ------------------------------------------------------------	0
+AB776844.1:648-874      ------------------------------------------------------------	0
+BC090940.1:378-650      GACCAGCGGCGTGCACACCTTCCCGGCTGTCCTACAGTCCTCAGGACTCTACTCCCTCAG	240
+unknown                 GACCAGCGGCGTGCACACCTTCCCGGCTGTCCTACAGTCCTCAGGACTCTACTCCCTCAG	240
+AB776844.1:375-646      GACCAGCGGCGTGCACACCTTCCCGGCTGTCCTACAGTCCTCAGGACTCTACTCCCTCAG	240
+CR933690.1:423-694      GACCAGCGGCGTGCACACCTTCCCGGCTGTCCTACAGTCCTCAGGACTCTACTCCCTCAG	240
+                                                                                    
+
+BC090940.1:650-877      ------------------------------------------------------------	0
+CR933690.1:696-922      ------------------------------------------------------------	0
+AB776844.1:648-874      ------------------------------------------------------------	0
+BC090940.1:378-650      CAGCGTGGTGACCGTGCCCTCCAGCAGCTTGGA---------------------------	273
+unknown                 CAGCGTGGTGACCGTGCCCTCCAGCAGCTTGGAGAAATCAGAAATCAGATATAGAAATCA	300
+AB776844.1:375-646      CAGCGTGGTGACCGTGCCCTCCAGCAGCTTGG----------------------------	272
+CR933690.1:423-694      CAGCGTGGTGACCGTGCCCTCCAGCAGCTTGG----------------------------	272
+                                                                                    
+
+BC090940.1:650-877      ------------------------------------------------------------	0
+CR933690.1:696-922      ------------------------------------------------------------	0
+AB776844.1:648-874      ------------------------------------------------------------	0
+BC090940.1:378-650      ------------------------------------------------------------	273
+unknown                 GANNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNTATAGAAA	360
+AB776844.1:375-646      ------------------------------------------------------------	272
+CR933690.1:423-694      ------------------------------------------------------------	272
+                                                                                    
+
+BC090940.1:650-877      ------------------------------------------------------------	0
+CR933690.1:696-922      ------------------------------------------------------------	0
+AB776844.1:648-874      ------------------------------------------------------------	0
+BC090940.1:378-650      ------------------------------------------------------------	273
+unknown                 TCAGATATAGAAATCAGATATAGAAATCAGATATAGAAATCAGATATAGAAATNNNNNNN	420
+AB776844.1:375-646      ------------------------------------------------------------	272
+CR933690.1:423-694      ------------------------------------------------------------	272
+                                                                                    
+
+BC090940.1:650-877      ------------------------------------------------------------	0
+CR933690.1:696-922      ------------------------------------------------------------	0
+AB776844.1:648-874      ------------------------------------------------------------	0
+BC090940.1:378-650      ------------------------------------------------------------	273
+unknown                 NNNCAGATATAGATATAGAAATCAGATATAGAAATCAGATATAGAAATCAGATATAGAAA	480
+AB776844.1:375-646      ------------------------------------------------------------	272
+CR933690.1:423-694      ------------------------------------------------------------	272
+                                                                                    
+
+BC090940.1:650-877      ----------------------------------ACACCCAGACCTACATCTGCAACGTG	26
+CR933690.1:696-922      -----------------------------------CACCCAGACCTACATCTGCAACGTG	25
+AB776844.1:648-874      -----------------------------------CACCCAGACCTACATCTGCAACGTG	25
+BC090940.1:378-650      ------------------------------------------------------------	273
+unknown                 TCAGATATAGAAATCAGATATAGAAATCAGATATACACCCAGACCTACATCTGCAACGTG	540
+AB776844.1:375-646      ------------------------------------------------------------	272
+CR933690.1:423-694      ------------------------------------------------------------	272
+                                                                                    
+
+BC090940.1:650-877      AATCACAAGCCCAGCAACACCAAGGTGGACAAGAAAGTTGAGCCCAAATCTTGTGACAAA	86
+CR933690.1:696-922      AATCACAAGCCCAGCAACACCAAGGTGGACAAGAAAGTTGAGCCCAAATCTTGTGACAAA	85
+AB776844.1:648-874      AATCACAAGCCCAGCAACACCAAGGTGGACAAGAGAGTTGAGCCCAAATCTTGTGACAAA	85
+BC090940.1:378-650      ------------------------------------------------------------	273
+unknown                 AATCACAAGCCCAGCAACACCAAGGTGGACAAGAAAGTTGAGCCCAAATCTTGTGACAAA	600
+AB776844.1:375-646      ------------------------------------------------------------	272
+CR933690.1:423-694      ------------------------------------------------------------	272
+                                                                                    
+
+BC090940.1:650-877      ACTCACACATGCCCACCGTGCCCAGCACCTGAACTCCTGGGGGGACCGTCAGTCTTCCTC	146
+CR933690.1:696-922      ACTCACACATGCCCACCGTGCCCAGCACCTGAACTCCTGGGGGGACCGTCAGTCTTCCTC	145
+AB776844.1:648-874      ACTCACACATGCCCACCGTGCCCAGCACCTGAACTCCTGGGGGGACCGTCAGTCTTCCTC	145
+BC090940.1:378-650      ------------------------------------------------------------	273
+unknown                 ACTCACACATGCCCACCGTGCCCAGCACCTGAACTCCTGGGGGGACCGTCAGTCTTCCTC	660
+AB776844.1:375-646      ------------------------------------------------------------	272
+CR933690.1:423-694      ------------------------------------------------------------	272
+                                                                                    
+
+BC090940.1:650-877      TTCCCCCCAAAACCCAAGGACACCCTCATGATCTCCCGGACCCCTGAGGTCACATGCGTG	206
+CR933690.1:696-922      TTCCCCCCAAAACCCAAGGACACCCTCATGATCTCCCGGACCCCTGAGGTCACATGCGTG	205
+AB776844.1:648-874      TTCCCCCCAAAACCCAAGGACACCCTCATGATCTCCCGGACCCCTGAGGTCACATGCGTG	205
+BC090940.1:378-650      ------------------------------------------------------------	273
+unknown                 TTCCCCCCAAAACCCAAGGACACCCTCATGATCTCCCGGACCCCTGAGGTCACATGCGTG	720
+AB776844.1:375-646      ------------------------------------------------------------	272
+CR933690.1:423-694      ------------------------------------------------------------	272
+                                                                                    
+
+BC090940.1:650-877      GTGGTGGACGTGAGCCACGAAG	228
+CR933690.1:696-922      GTGGTGGACGTGAGCCACGAAG	227
+AB776844.1:648-874      GTGGTGGACGTGAGCCACGAAG	227
+BC090940.1:378-650      ----------------------	273
+unknown                 GTGGTGGACGTGAGCCACGAAG	742
+AB776844.1:375-646      ----------------------	272
+CR933690.1:423-694      ----------------------	272
